@@ -1,0 +1,9 @@
+name: RickRoll
+version: 1.0.0
+main: me.miniblacktw.rickroller.Main
+api-version: '1.21'
+depend: [Citizens, NoteBlockAPI]
+commands:
+  rickroll:
+    description: Rickroll a player
+    usage: /rickroll <player>
